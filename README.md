@@ -19,7 +19,7 @@ Kakarot is an EVM running within CairoVM, coupled with a [RPC](https://github.co
 
 In order to set up the repo and start the testing, please follow the below
 instructions:
-
+- run `brew install wget` (If Mac)
 - run `make setup`
 - run `make fetch-dump`
 
